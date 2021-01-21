@@ -1,0 +1,1 @@
+Movie Seat Booking widget built with Vanilla JS using tutorial from Traversy Media 
